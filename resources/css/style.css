@@ -1,6 +1,7 @@
 body {
   background-color: black;
   text-align: center;
+  color: white;
 }
 
 .mainheader {
@@ -15,4 +16,26 @@ body {
   color: aquamarine;
   font-size: 16px;
   text-align: center;
+}
+
+.excursion__info > h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.excursion__info > p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
+.phone__png {
+  margin-top: 25px;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
 }
